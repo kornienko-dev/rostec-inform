@@ -1,3 +1,3 @@
 # rostec-inform
-1. Чтобы проверить код в [`Main.java`](Main.java), скопируйте его и запустите [на сайте](https://onecompiler.com/java)
-2. Чтобы проверить код в [`Main.groovy`](Main.groovy), скопируйте его и запустите [на сайте](https://onecompiler.com/groovy)
+1. Склонируйте и запустите `./gradlew build`, если на Linux
+2. Склонируйте и запустите `gradlew build`, если на Windows
