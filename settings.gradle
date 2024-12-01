@@ -1,0 +1,4 @@
+rootProject.name = 'rostec-inform'
+include 'java'
+include 'groovy'
+
